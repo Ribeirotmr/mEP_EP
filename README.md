@@ -1,8 +1,8 @@
 ### PROGRAMAÇÃO FUNCIONAL EM PYTHON 
 
-##Este repositorio foi feito para armazenaros problemas dados nas aulas de programaçã
+## este repositorio foi feito para armazenar problemas  dados nas aulas de programação ##
 
-### O QUE EU O MINIEP ?
+### O QUE EU O MINIEP ?  ###
 
-   *O miniep consistem nos alunos programar pela lingugem python o que o professor pede nos problemas 
+   *O miniep consistem nos alunos programar pela lingugem python o que o professor pede nos problemas*
    
